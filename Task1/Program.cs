@@ -19,13 +19,11 @@ namespace Task1
             float criticalHitChanseCharacter = 0.75f;
             uint moneyCharacter = 3825;
             sbyte karmaCharacter = -5;
-            bool goodCharacter = karmaCharacter > 0;
+            bool isGoodCharacter = karmaCharacter > 0;
             short healthPointCaracter = 10000;
             bool aliveCharacter = healthPointCaracter > 0;
-            int arrowQuantityCarecter = 2140000000;
-            bool brokenUniverse = arrowQuantityCarecter < 0;
-
-
+            int arrowCaracter = 2140000000;
+            bool isBrokenUniverse = arrowCaracter < 0;
         }
     }
 }

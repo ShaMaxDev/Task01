@@ -24,9 +24,7 @@ namespace Task1
             bool isAliveCharacter = healthPointCaracter > 0;
             int arrowsCharacter = 2140000000;
             bool isBrokenUniverse = arrowsCharacter < 0;
-            // WTF???
-
-
+    
         }
     }
 }

@@ -21,9 +21,12 @@ namespace Task1
             sbyte karmaCharacter = -5;
             bool isGoodCharacter = karmaCharacter > 0;
             short healthPointCaracter = 10000;
-            bool aliveCharacter = healthPointCaracter > 0;
-            int arrowCaracter = 2140000000;
-            bool isBrokenUniverse = arrowCaracter < 0;
+            bool isAliveCharacter = healthPointCaracter > 0;
+            int arrowsCharacter = 2140000000;
+            bool isBrokenUniverse = arrowsCharacter < 0;
+            // WTF???
+
+
         }
     }
 }
